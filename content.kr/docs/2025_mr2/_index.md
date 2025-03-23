@@ -13,4 +13,5 @@ draft: false
   - [사이언스]({{< ref "docs/2025_mr2/science/_index.md" >}})
   - [소프트웨어]({{< ref "docs/2025_mr2/software/_index.md" >}})
   - [전장 시스템]({{< ref "docs/2025_mr2/circuit/_index.md" >}})
+  - [매니퓰레이터]({{< ref "docs/2025_mr2/manipulator/_index.md" >}})
 

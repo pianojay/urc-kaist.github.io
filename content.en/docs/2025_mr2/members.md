@@ -9,88 +9,93 @@ bookToc: false
 # bookComments: false
 # bookSearchExclude: false
 ---
-# 2025 URC Members
+# 2025 Members
 
 {{% columns %}}
-![Myungwoo Jung](/images/members/member_placeholder.jpg)  
-**Myungwoo Jung**  
-_Master of our team_  
-Master
+![Jeong Myungwoo](/images/members/member_placeholder.jpg)  
+**Jeong Myungwoo**  
+_MR2 Team Leader_  
+Overall in charge of rover development
 
 <--->
 
-![Gyungmin Myung](/images/members/member_placeholder.jpg)  
-**Gyungmin Myung**  
+![Myungkyung Min](/images/members/member_placeholder.jpg)  
+**Myungkyung Min**  
 _Software Team Leader_  
-Develops software for the rover
+Overall in charge of rover software development
 {{% /columns %}}
 
 {{% columns %}}
-![Junggeun Seo](/images/members/member_placeholder.jpg)  
-**Junggeun Seo**  
-_Electrical Team Leader_  
-Develops electrical systems for the rover
+
+![Seo Jeonggeun](/images/members/member_placeholder.jpg)  
+**Seo Jeonggeun**  
+_Electrical Systems Team Leader_  
+Overall in charge of rover electrical system development
 
 <--->
 
-![Junbin Choi](/images/members/member_placeholder.jpg)  
-**Junbin Choi**  
+![Choi Junbin](/images/members/member_placeholder.jpg)  
+**Choi Junbin**  
 _Hardware Team Leader_  
-Develops hardware systems for the rover
+Overall in charge of rover hardware development
 {{% /columns %}}
 
 {{% columns %}}
-![Robin Kim](/images/members/member_placeholder.jpg)  
-**Robin Kim**  
+
+![Kim Robin](/images/members/member_placeholder.jpg)  
+**Kim Robin**  
 _Science Team Leader_  
-Leads development of science experiments
+Overall in charge of rover science mission experiments
 
 <--->
 
-![An Yeonsu](/images/members/an_yeonsu.jpg)  
-**An Yeonsu**  
-_Management & Electrical_  
-Team management and electrical development
+![Ahn Yeonsu](/images/members/an_yeonsu.jpg)  
+**Ahn Yeonsu**  
+_Management Team Leader & Electrical Systems Team Member_  
+In charge of team management and electrical system development
 {{% /columns %}}
 
 {{% columns %}}
+
 ![Joo Minchan](/images/members/member_placeholder.jpg)  
 **Joo Minchan**  
-_Mechanical Team Member_  
-Develops robot arm mechanisms
+_Hardware Team Member_  
+Responsible for robot arm hardware development
 
 <--->
 
-![Gyungmin Noh](/images/members/member_placeholder.jpg)  
-**Gyungmin Noh**  
+![Noh Kyungmin](/images/members/member_placeholder.jpg)  
+**Noh Kyungmin**  
 _Bio & Replica_  
-Handles biological analysis and replica creation
+In charge of bio experiments and equipment replica fabrication
 {{% /columns %}}
 
 {{% columns %}}
-![Heetae Kim](/images/members/member_placeholder.jpg)  
-**Heetae Kim**  
+
+![Kim Heetae](/images/members/member_placeholder.jpg)  
+**Kim Heetae**  
 _Bio & Replica_  
-Assists in biology and replica design
+In charge of bio experiments and equipment replica fabrication
 
 <--->
 
-![Donghee Kim](/images/members/member_placeholder.jpg)  
-**Donghee Kim**  
-_Mechanical Team Member_  
-Develops mechanical systems
+![Kim Donghee](/images/members/member_placeholder.jpg)  
+**Kim Donghee**  
+_Hardware Team Member_  
+Responsible for hardware development
 {{% /columns %}}
 
 {{% columns %}}
-![Jaewon Jeon](/images/members/member_placeholder.jpg)  
-**Jaewon Jeon**  
+
+![Jeon Jaewon](/images/members/member_placeholder.jpg)  
+**Jeon Jaewon**  
 _Software Team Member_  
 Develops science dashboard software
 
 <--->
 
-![Yoonji Byun](/images/members/member_placeholder.jpg)  
-**Yoonji Byun**  
+![Byun Yoonji](/images/members/member_placeholder.jpg)  
+**Byun Yoonji**  
 _Electrical Team Member_  
 Develops electrical systems
 {{% /columns %}}

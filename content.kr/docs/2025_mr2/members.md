@@ -9,88 +9,99 @@ bookToc: false
 # bookComments: false
 # bookSearchExclude: false
 ---
-# 2025 URC 구성원
+# 2025 구성원
 
 {{% columns %}}
-![Myungwoo Jung](/images/members/member_placeholder.jpg)  
-**Myungwoo Jung**  
-_Master of our team_  
-Master
+![정명우](/images/members/member_placeholder.jpg)  
+**정명우**  
+_MR2 팀장_  
+로버 전체 개발 총괄
 
 <--->
 
-![Gyungmin Myung](/images/members/member_placeholder.jpg)  
-**Gyungmin Myung**  
-_Software Team Leader_  
-Develops software for the rover
+![명경민](/images/members/member_placeholder.jpg)  
+**명경민**  
+_소프트웨어 팀장_  
+로버 소프트웨어 개발 총괄
+
 {{% /columns %}}
 
 {{% columns %}}
-![Junggeun Seo](/images/members/member_placeholder.jpg)  
-**Junggeun Seo**  
-_Electrical Team Leader_  
-Develops electrical systems for the rover
+
+![서정근](/images/members/member_placeholder.jpg)  
+**서정근**  
+_전장 시스템 팀장_  
+로버 전장 시스템 개발 총괄
 
 <--->
 
-![Junbin Choi](/images/members/member_placeholder.jpg)  
-**Junbin Choi**  
-_Hardware Team Leader_  
-Develops hardware systems for the rover
+![최준빈](/images/members/member_placeholder.jpg)  
+**최준빈**  
+_하드웨어 팀장_  
+로버 하드웨어 개발 총괄
+
 {{% /columns %}}
 
 {{% columns %}}
-![Robin Kim](/images/members/member_placeholder.jpg)  
-**Robin Kim**  
-_Science Team Leader_  
-Leads development of science experiments
+
+![김로빈](/images/members/member_placeholder.jpg)  
+**김로빈**  
+_사이언스 팀장_  
+로버 사이언스 미션 실험 총괄
 
 <--->
 
-![An Yeonsu](/images/members/an_yeonsu.jpg)  
-**An Yeonsu**  
-_Management & Electrical_  
-Team management and electrical development
+![안연수](/images/members/an_yeonsu.jpg)  
+**안연수**  
+_매니지먼트 팀장 & 전장 시스템 팀원_  
+팀 매니지먼트와 전장 시스템 개발
+
 {{% /columns %}}
 
 {{% columns %}}
-![Joo Minchan](/images/members/member_placeholder.jpg)  
-**Joo Minchan**  
-_Mechanical Team Member_  
-Develops robot arm mechanisms
+
+![주민찬](/images/members/member_placeholder.jpg)  
+**주민찬**  
+_하드웨어 팀원_  
+로봇 팔 하드웨어 개발
 
 <--->
 
-![Gyungmin Noh](/images/members/member_placeholder.jpg)  
-**Gyungmin Noh**  
-_Bio & Replica_  
-Handles biological analysis and replica creation
+![노경민](/images/members/member_placeholder.jpg)  
+**노경민**  
+_바이오 & 레플리카_  
+바이오 실험과 장비 레플리카 제작
+
 {{% /columns %}}
 
 {{% columns %}}
-![Heetae Kim](/images/members/member_placeholder.jpg)  
-**Heetae Kim**  
-_Bio & Replica_  
-Assists in biology and replica design
+
+![김희태](/images/members/member_placeholder.jpg)  
+**김희태**  
+_바이오 & 레플리카_  
+바이오 실험과 장비 레플리카 제작
 
 <--->
 
-![Donghee Kim](/images/members/member_placeholder.jpg)  
-**Donghee Kim**  
-_Mechanical Team Member_  
-Develops mechanical systems
+![김동희](/images/members/member_placeholder.jpg)  
+**김동희**  
+_하드웨어 팀원_  
+하드웨어 개발
+
 {{% /columns %}}
 
 {{% columns %}}
-![Jaewon Jeon](/images/members/member_placeholder.jpg)  
-**Jaewon Jeon**  
-_Software Team Member_  
-Develops science dashboard software
+
+![전재원](/images/members/member_placeholder.jpg)  
+**전재원**  
+_소프트웨어 팀원_  
+사이언스 대시보드 소프트웨어 개발
 
 <--->
 
-![Yoonji Byun](/images/members/member_placeholder.jpg)  
-**Yoonji Byun**  
-_Electrical Team Member_  
-Develops electrical systems
+![변윤지](/images/members/member_placeholder.jpg)  
+**변윤지**  
+_전장 팀원_  
+전장 시스템 개발
+
 {{% /columns %}}

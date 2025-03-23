@@ -1,6 +1,6 @@
 baseURL = 'https://urc-kaist.github.io/'
 languageCode = 'en-us'
-title = 'MR2 URC KAIST'
+title = 'MR2 KAIST'
 theme = 'hugo-book'
 
 [languages]
@@ -14,6 +14,10 @@ theme = 'hugo-book'
     contentDir = 'content.kr'
     weight = 2
 
-[markup]
 [markup.goldmark.renderer]
   unsafe = true
+
+[params]
+  BookLogo = 'images/mr2.png'
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/URC-kaist/urc-kaist.github.io'
