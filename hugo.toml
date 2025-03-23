@@ -1,0 +1,4 @@
+baseURL = 'https://urc-kaist.github.io/'
+languageCode = 'en-us'
+title = 'MR2 URC KAIST'
+theme = 'hugo-book'
