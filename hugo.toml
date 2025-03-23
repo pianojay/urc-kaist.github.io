@@ -2,3 +2,18 @@ baseURL = 'https://urc-kaist.github.io/'
 languageCode = 'en-us'
 title = 'MR2 URC KAIST'
 theme = 'hugo-book'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content.en'
+    weight = 1
+
+  [languages.kr]
+    languageName = 'Korean'
+    contentDir = 'content.kr'
+    weight = 2
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true

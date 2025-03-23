@@ -1,18 +1,9 @@
 ---
-title: "Stm32 Drive Motor Controller"
+title: "STM32 드라이브 모터 컨트롤러"
 weight: 1
 draft: false
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
 ---
-# STM32 Drive Motor Controller
-
-For more details about the Velocity Control for STM32, refer to the Notion page:  
-[Velocity Control STM32 기능 및 통신](https://www.notion.so/mrurc/Velocity-control-stm32-60fa8861a17d4f1194d312a2be62e80e)
+# STM32 드라이브 모터 컨트롤러
 
 ## 기본 설정
 
@@ -22,6 +13,9 @@ For more details about the Velocity Control for STM32, refer to the Notion page:
 > **Note:**  
 > 이 디렉토리는 STM32 기반의 Velocity Control 기능을 구현한 펌웨어와 관련된 자료를 포함합니다.  
 > 본 시스템은 UART 통신을 통해 다양한 명령을 수신하고, PID 제어를 기반으로 모터의 속도 및 브레이크를 제어하도록 설계되었습니다.
+> STM32 속도 제어에 관한 자료를 더 알아보고 싶다면 다음 노션 페이지를 참조하세요:
+>
+> [Velocity Control STM32 기능 및 통신](https://www.notion.so/mrurc/Velocity-control-stm32-60fa8861a17d4f1194d312a2be62e80e)
 
 ---
 
