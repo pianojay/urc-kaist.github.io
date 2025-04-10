@@ -2,6 +2,11 @@
 
 HUGO라는 툴 써서 만들었어여
 
+## 레포지토리 클론하기
+```bash
+git clone --recursive https://github.com/URC-kaist/urc-kaist.github.io.git
+```
+
 ## HUGO 설치하기
 이 [링크](https://gohugo.io/installation/) 따라하면 돼여
 
@@ -29,4 +34,4 @@ bookCollapseSection: true # 이거는 _index.md 에서 폴더를 접을 수 있�
 ---
 ```
 
-질문 있으면 저를 갈궈주세여
+질문 있으면 저를 찾아주세여
