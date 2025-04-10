@@ -1,6 +1,6 @@
 ---
 title: "Software"
-weight: 2
+weight: 1
 draft: false
 bookCollapseSection: true
 ---

@@ -14,10 +14,6 @@ draft: false
 
 **2025 Team Science Mission**
 
-**Robin Kim**  
-Department of Electrical and Electronic Engineering, KAIST, Daejeon 305-701  
-(Contact: rlovekaist@kaist.ac.kr)
-
 ## Summary
 
 This study details the process of selecting experiments for life detection as part of the Science Mission. Two primary approaches were employed to conduct a total of three experiments for life detection. First, two protein detection experiments were performed using Biuret solution and Bradford solution. Second, UV-Vis spectral scanning was carried out using distilled water as the solvent. Among the four protein detection reactions—Biuret, Ninhydrin, Lowry, and Bradford—the Biuret reaction and Bradford reaction were ultimately chosen, taking into account factors such as the mission time, the fact that the experiment is conducted inside the rover, and the precision required for protein detection.

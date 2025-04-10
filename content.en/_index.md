@@ -12,3 +12,5 @@ title = 'Welcome to MR2 URC KAIST'
 ![URC](/images/urc.jpg)
 The University Rover Challenge (URC) is the world’s largest Mars rover competition, held annually in Utah, USA.
 Organized by NASA and the Mars Society, the competition challenges university students to design and build their own rovers to perform simulated Mars exploration missions.
+
+## Sponsors

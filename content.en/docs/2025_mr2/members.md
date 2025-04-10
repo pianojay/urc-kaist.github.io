@@ -1,6 +1,6 @@
 ---
 title: "Members"
-weight: 1
+weight: 2
 draft: false
 # bookFlatSection: false
 bookToc: false
@@ -12,90 +12,80 @@ bookToc: false
 # 2025 Members
 
 {{% columns %}}
-![Jeong Myungwoo](/images/members/member_placeholder.jpg)  
-**Jeong Myungwoo**  
+![Jung Myungwoo](/images/members/2025/JungMyungWoo.jpeg)  
+**Jung Myungwoo**  
 _MR2 Team Leader_  
 Overall in charge of rover development
 
 <--->
 
-![Myungkyung Min](/images/members/member_placeholder.jpg)  
-**Myungkyung Min**  
+![Myung Gyungmin](/images/members/2025/MyungGyungMin.jpeg)  
+**Myung Gyungmin**  
 _Software Team Leader_  
 Overall in charge of rover software development
-{{% /columns %}}
 
-{{% columns %}}
+<--->
 
-![Seo Jeonggeun](/images/members/member_placeholder.jpg)  
-**Seo Jeonggeun**  
+
+![Seo Junggeun](/images/members/2025/SeoJungGeun.jpeg)  
+**Seo Jung-geun**  
 _Electrical Systems Team Leader_  
 Overall in charge of rover electrical system development
 
 <--->
 
-![Choi Junbin](/images/members/member_placeholder.jpg)  
+![Choi Junbin](/images/members/2025/ChoiJunBin.jpeg)  
 **Choi Junbin**  
 _Hardware Team Leader_  
 Overall in charge of rover hardware development
-{{% /columns %}}
 
-{{% columns %}}
+<--->
 
-![Kim Robin](/images/members/member_placeholder.jpg)  
+![Kim Robin](/images/members/2025/KimRoBin.jpeg)  
 **Kim Robin**  
 _Science Team Leader_  
 Overall in charge of rover science mission experiments
 
 <--->
 
-![Ahn Yeonsu](/images/members/an_yeonsu.jpg)  
+![Ahn Yeonsu](/images/members/2025/AhnYeonSu.jpeg)  
 **Ahn Yeonsu**  
 _Management Team Leader & Electrical Systems Team Member_  
 In charge of team management and electrical system development
-{{% /columns %}}
 
-{{% columns %}}
+<--->
 
-![Joo Minchan](/images/members/member_placeholder.jpg)  
+![Joo Minchan](/images/members/2025/JooMinChan.jpeg)  
 **Joo Minchan**  
 _Hardware Team Member_  
 Responsible for robot arm hardware development
 
 <--->
 
-![Noh Kyungmin](/images/members/member_placeholder.jpg)  
-**Noh Kyungmin**  
+![Noh Gyungmin](/images/members/2025/NohGyungMin.jpeg)  
+**Noh Gyungmin**  
 _Bio & Replica_  
 In charge of bio experiments and equipment replica fabrication
-{{% /columns %}}
 
-{{% columns %}}
+<--->
 
-![Kim Heetae](/images/members/member_placeholder.jpg)  
+![Kim Heetae](/images/members/2025/KimHeetae.jpeg)  
 **Kim Heetae**  
 _Bio & Replica_  
 In charge of bio experiments and equipment replica fabrication
 
 <--->
 
-![Kim Donghee](/images/members/member_placeholder.jpg)  
+![Kim Donghee](/images/members/2025/KimDongHee.jpeg)  
 **Kim Donghee**  
 _Hardware Team Member_  
 Responsible for hardware development
-{{% /columns %}}
-
-{{% columns %}}
-
-![Jeon Jaewon](/images/members/member_placeholder.jpg)  
-**Jeon Jaewon**  
-_Software Team Member_  
-Develops science dashboard software
 
 <--->
 
-![Byun Yoonji](/images/members/member_placeholder.jpg)  
-**Byun Yoonji**  
-_Electrical Team Member_  
-Develops electrical systems
+![Jeon Jaewon](/images/members/2025/JeonJaeWon.jpeg)  
+**Jeon Jaewon** 
+_Software Team Member_  
+Develops science dashboard software
+
 {{% /columns %}}
