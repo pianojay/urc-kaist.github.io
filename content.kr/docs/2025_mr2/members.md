@@ -68,7 +68,7 @@ _바이오 & 레플리카_
 
 <--->
 
-![김희태](/images/members/2025/KimHeetae.jpeg)  
+![김희태](/images/members/2025/KimHeeTae.jpeg)  
 **김희태**  
 _바이오 & 레플리카_  
 바이오 실험과 장비 레플리카 제작

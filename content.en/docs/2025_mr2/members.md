@@ -69,7 +69,7 @@ In charge of bio experiments and equipment replica fabrication
 
 <--->
 
-![Kim Heetae](/images/members/2025/KimHeetae.jpeg)  
+![Kim Heetae](/images/members/2025/KimHeeTae.jpeg)  
 **Kim Heetae**  
 _Bio & Replica_  
 In charge of bio experiments and equipment replica fabrication
