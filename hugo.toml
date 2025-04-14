@@ -9,9 +9,9 @@ theme = 'hugo-book'
     contentDir = 'content.en'
     weight = 1
 
-  [languages.kr]
+  [languages.ko]
     languageName = 'Korean'
-    contentDir = 'content.kr'
+    contentDir = 'content.ko'
     weight = 2
 
 [markup.goldmark.renderer]
